@@ -35,7 +35,7 @@ global.btnurl = '🙂https://chat.whatsapp.com/GdvFJm1mPiw1lqySactWJJ🤭' //Cha
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = 'janiya' //Bot Pacage Name
 global.author = '😎𝗞𝗞𝗗 𝘁𝗵𝗲𝗻𝘂𝗸𝗮❯❯' //Author Name
 global.prefa = ['','!','.','#',':','❤️'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
@@ -53,7 +53,7 @@ global.mess = { // Error Mesages
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉ටිකක් ඉන්නකෝ 👈Pleas Wait...',
+    wait: '👉ටිකක් ඉන්නකෝ. 👈Pleas Wait...',
     error: 'Error!!!𝗻𝗼𝘁 𝗳𝗼𝘂𝗻𝗱 𝗶𝘁😓 Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
